@@ -1,7 +1,7 @@
 # tec-nm-tlaxiaco-arqui-compu
 
 Repositorio Aquitectura de Computadoras 5BS
-
+## irvin modifico aqui 
 ## Evaluación
 
 ### Prácticas 1-5 [?]%
