@@ -1,4 +1,4 @@
-# tec-nm-tlaxiaco-arqui-compu
+# TecNM Tlaxiaco - Arquitectura de Computadoras
 
 Repositorio Aquitectura de Computadoras 5BS
 ## irvin modifico aqui 
