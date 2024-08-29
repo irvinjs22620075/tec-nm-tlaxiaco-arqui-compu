@@ -1,0 +1,18 @@
+# logs
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+bin/
+*.lock
+
+# System data
+*.swp
+
+# Solutions
+*.sln
+*.suo
+*.user
+*Solucion.md
