@@ -1,4 +1,4 @@
-# Practica 2 - Introducción a la programación en Ensamblador
+# Practica 2 - Unidad 1 Arquitecturas de cómputo - Introducción a la programación en Ensamblador
 
 ## Objetivo
 
@@ -26,20 +26,28 @@ Para realizar esta práctica, el alumno deberá realizar los siguientes ejercici
 El alumno deberá entregar un reporte en formato PDF que contenga los siguientes elementos:
 
 1. Portada.
+
 2. Objetivo.
+
 3. Materiales.
+
     - 3.1. Software y versión del ensamblador.
+
 4. Desarrollo.
-    4.1. Ejercicio 1.
+
+    - 4.1. Ejercicio 1.
         - 4.1.1. Código fuente.
         - 4.1.2. Captura de pantalla del programa en ejecución.
-    4.2. Ejercicio 2.
+
+    - 4.2. Ejercicio 2.
         - 4.2.1. Código fuente.
         - 4.2.2. Captura de pantalla del programa en ejecución.
-    4.3. Ejercicio 3.
+
+    - 4.3. Ejercicio 3.
         - 4.3.1. Código fuente.
         - 4.3.2. Captura de pantalla del programa en ejecución.
-    4.4. *Ejercicio 4.
+
+    - 4.4. *Ejercicio 4.
         - 4.4.1. Código fuente.
         - 4.4.2. Captura de pantalla del programa en ejecución.
 5. Conclusiones.

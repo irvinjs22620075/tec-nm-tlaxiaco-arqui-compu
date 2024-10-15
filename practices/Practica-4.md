@@ -1,4 +1,4 @@
-# Practica 4 - Seleccion de componentes para un equipo de computo
+# Practica 4 - Unidad 3 Selección de componentes - Seleccion de componentes para un equipo de computo
 
 ## Objetivo
 
