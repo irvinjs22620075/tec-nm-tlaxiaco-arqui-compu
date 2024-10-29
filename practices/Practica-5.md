@@ -73,4 +73,4 @@ El alumno deberá entregar un reporte en formato PDF que contenga los siguientes
 
 ## Deadline
 
-- Jueves 24 de Octubre a las 23:59 hrs.
+- Lunes 29 de Octubre a las 23:59 hrs.
