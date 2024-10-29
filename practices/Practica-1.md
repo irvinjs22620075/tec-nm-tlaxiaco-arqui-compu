@@ -1,4 +1,4 @@
-# Practica 1 - CIRCUITOS ARITMETICOS Y LOGICOS
+# Practica 1 - Unidad 1 Arquitecturas de cómputo - CIRCUITOS ARITMETICOS Y LOGICOS
 
 ## Objetivo
 
@@ -49,26 +49,36 @@ funcionamiento.
 
 El reporte deberá contener los siguientes elementos:
 
-1. Portada
-2. Objetivo
-3. Materiales
-  - 3.1. Software y versión del simulador de circuitos digitales
+1. Portada.
+
+2. Objetivo.
+
+3. Materiales.
+
+    - 3.1. Software y versión del simulador de circuitos digitales.
+
 4. Desarrollo
-  4.1 Circuito Sumador
-    - 4.1.1. Implementación
-    - 4.1.2. Tabla de verdad
-    - 4.1.3. Simulación
-  4.2 Circuito Restador
-    - 4.2.1. Implementación
-    - 4.2.2. Tabla de verdad
-    - 4.2.3. Simulación
-  4.3 Circuito Comparador
-    - 4.3.1. Implementación
-    - 4.3.2. Tabla de verdad
-    - 4.3.3. Simulación
-  4.4 Circuito Multiplicador
-    - 4.4.1. Implementación
-    - 4.4.2. Tabla de verdad
-    - 4.4.3. Simulación
+
+    - 4.1 Circuito Sumador
+      - 4.1.1. Implementación
+      - 4.1.2. Tabla de verdad
+      - 4.1.3. Simulación
+
+    - 4.2 Circuito Restador
+      - 4.2.1. Implementación
+      - 4.2.2. Tabla de verdad
+      - 4.2.3. Simulación
+
+    - 4.3 Circuito Comparador
+      - 4.3.1. Implementación
+      - 4.3.2. Tabla de verdad
+      - 4.3.3. Simulación
+
+    - 4.4 Circuito Multiplicador
+      - 4.4.1. Implementación
+      - 4.4.2. Tabla de verdad
+      - 4.4.3. Simulación
+
 5. Conclusiones
+
 6. Referencias

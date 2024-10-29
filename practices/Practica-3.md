@@ -1,4 +1,4 @@
-# Practica 3 - Caracterización de equipo de cómputo
+# Practica 3 - Unidad 3 Selección de componentes - Caracterización de equipo de cómputo
 
 ## Objetivo
 
@@ -52,21 +52,31 @@ El alumno identificará las carácteristicas técnicas más importantes de un eq
 El alumno deberá entregar un reporte en formato PDF que contenga los siguientes elementos:
 
 1. Portada.
+
 2. Objetivo.
+
 3. Materiales.
+
     - 3.1. Software y versión del software de diagnóstico.
+
 4. Desarrollo.
-    4.1. CPU.
+
+    - 4.1. CPU.
         - 4.1.1. Captura de pantalla.
         - 4.1.2. Análisis.
-    4.2. RAM.
+
+    - 4.2. RAM.
         - 4.2.1. Captura de pantalla.
         - 4.2.2. Análisis.
-    4.3. HDD/SDD.
+
+    - 4.3. HDD/SDD.
         - 4.3.1. Captura de pantalla.
         - 4.3.2. Análisis.
-    4.4. GPU.
+
+    - 4.4. GPU.
         - 4.4.1. Captura de pantalla.
         - 4.4.2. Análisis.
+
 5. Conclusiones.
+
 6. Referencias.
